@@ -261,5 +261,12 @@ button:hover{
         font-weight: 900;
     }
     
-    
+    .bio{
+        margin-bottom: 50%;
+    }
+    hr{
+     
+       padding: 0 70px;
+        border-bottom: 1px solid  black;
+    }
 }
